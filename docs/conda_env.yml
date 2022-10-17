@@ -9,7 +9,7 @@ channels:
   - defaults
 dependencies:
   - c-compiler
-  - python>=3.6,<3.9
+  - python==3.9
   - cartopy
   - cvxopt
   - dask>=1.0

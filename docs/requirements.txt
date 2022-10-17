@@ -1,5 +1,5 @@
 c-compiler
-python>=3.6
+python==3.9
 cartopy
 cvxopt
 dask>=1.0

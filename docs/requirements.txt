@@ -1,3 +1,24 @@
+# Includes packages to install ISCE2, MintPy, and MiaplPy
+pytest
+fftw
+opencv
+pybind11
+shapely
+cmake
+openmotif
+openmotif-dev
+xorg-libx11
+xorg-libxt
+xorg-libxmu
+xorg-libxft
+libiconv
+xorg-libxrender
+xorg-libxau
+xorg-libxdmcp
+gcc_linux-64
+gxx_linux-64
+gfortran_linux-64
+
 c-compiler
 python==3.9
 cartopy
@@ -14,6 +35,7 @@ pyproj
 scikit-image
 scipy
 gdal
+libgdal
 isce2
 cython
 setuptools
@@ -22,6 +44,7 @@ pyaps3>=0.3
 pykml>=0.2
 pyresample
 pysolid
+
 # MinSAR dependencies
 git
 natsort
